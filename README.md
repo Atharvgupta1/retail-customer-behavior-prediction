@@ -60,7 +60,7 @@ Contains ~500K retail transactions (2010–2011), including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard_preview.png)
+![Dashboard]([dashboard/dashboard_preview.png](https://github.com/Atharvgupta1/retail-customer-behavior-prediction/blob/5aa5b994aae0442c3b53ee81373dc7fa2e1a57d1/Retail%20Dashboard%20SS.png))
 
 ---
 
@@ -76,7 +76,7 @@ Contains ~500K retail transactions (2010–2011), including:
 ## 🔍 Key Insights
 
 * Revenue shows **strong seasonal trends**
-* A small number of products drive majority of sales
+* A small number of products drive the majority of sales
 * Majority of customers are **one-time buyers (high churn risk)**
 * Revenue depends heavily on **high-value customers**
 * Sales are concentrated in a few key regions
