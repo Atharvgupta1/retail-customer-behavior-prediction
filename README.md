@@ -60,7 +60,7 @@ Contains ~500K retail transactions (2010–2011), including:
 
 ## 📊 Dashboard Preview
 
-![Dashboard]([dashboard/dashboard_preview.png](https://github.com/Atharvgupta1/retail-customer-behavior-prediction/blob/5aa5b994aae0442c3b53ee81373dc7fa2e1a57d1/Retail%20Dashboard%20SS.png))
+![Dashboard](https://github.com/Atharvgupta1/retail-customer-behavior-prediction/blob/b438963e4f25a724b8eb0d0a4f59d442ee5e2ffc/Retail%20Dashboard%20SS.png)
 
 ---
 
